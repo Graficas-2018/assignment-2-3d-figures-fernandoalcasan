@@ -22,3 +22,12 @@ Rubric:
 
 <img src="Images/Octahedron.jpg" width="300">
 <br/>Figure 3: 3D Octahedron.
+
+
+
+
+Final Result:
+
+
+
+![](https://github.com/Graficas-2018/assignment-2-3d-figures-fernandoalcasan/blob/master/Images/grafs.gif)
